@@ -1,1 +1,1 @@
-My first text file for GITHUB file upload
+My first text file for testing Github file upload.
