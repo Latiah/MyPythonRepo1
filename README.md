@@ -1,7 +1,7 @@
 # MyPythonRepo1
-## Level 1
-This is my first repository for python 
-## Course 
+## Level 1 🥳
+This is my first repository for python 😇
+## Course 😇
 Python programming 
-## School
+## School 
 AIMS RWANDA
